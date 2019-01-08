@@ -1,0 +1,25 @@
+Attributes
+1. char_freq_; 
+    percentage of total characters in the email that are equal to _
+2. char_freq_( 
+    percentage of total characters in the email that are equal to (
+3. char_freq_[ 
+    percentage of total characters in the email that are equal to [
+4. char_freq_! 
+   percentage of total characters in the email that are equal to !
+5. char_freq_$ 
+   percentage of total characters in the email that are equal to !
+6. char_freq_# numeric
+   percentage of total characters in the email that are equal to # 
+7. capital_run_length_average 
+   average length of uninterrupted sequences of capital letters
+8. capital_run_length_longest
+   length of longest uninterrupted sequence of capital letters
+9. capital_run_length_total 
+   total number of capital letters in the email
+
+Class Labels
+
+The class labels are 1 and 0
+   They denote whether the e-mail was considered spam (1) or non-spam (0)
+
